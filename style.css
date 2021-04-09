@@ -683,6 +683,12 @@ header .content .login a {
   box-shadow: -5px 30px 20px -20px rgba(53, 71, 121, 0.38);
   transform: translateY(-10px);
 }
+.contact .box .box-text .box-contact form button a{
+  text-decoration:none;
+	color:#ffffff;
+}
+
+
 
 /* .contact .box .box-text .box-contact form textarea */
 
